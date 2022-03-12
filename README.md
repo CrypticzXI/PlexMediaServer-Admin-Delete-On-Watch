@@ -14,9 +14,9 @@ PLEX-LOCAL-URL=        *REQUIRED*
 DISCORD-WEBHOOK-URL=NONE
 ```
 
-Keep `DISCORD-WEBHOOK-URL` NONE to disable,
-Keep `MOVIE-PLAYLIST-NAME` NONE to disable,
-Keep `TV-SHOW-PLAYLIST-NAME` NONE to disable
+Keep `DISCORD-WEBHOOK-URL` NONE to disable,\n
+Keep `MOVIE-PLAYLIST-NAME` NONE to disable,\n
+Keep `TV-SHOW-PLAYLIST-NAME` NONE to disable\n
 
 
 run a cron job just run the file, `plex-purge.py`
