@@ -6,13 +6,13 @@ Install Requirements.txt
 
 create a .env file,
 
-`
+```
 MOVIE-PLAYLIST-NAME=NONE
 TV-SHOW-PLAYLIST-NAME=NONE
 PLEX-ACCESS-TOKEN=     *REQUIRED*
 PLEX-LOCAL-URL=        *REQUIRED*
 DISCORD-WEBHOOK-URL=NONE
-`
+```
 
 Keep `DISCORD-WEBHOOK-URL` NONE to disable,
 Keep `MOVIE-PLAYLIST-NAME` NONE to disable,
